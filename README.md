@@ -2,6 +2,8 @@
 
 This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
 
+![iPhone 15 Pro](https://github.com/Mustafa-Hassan2001/iPhone15-Clone/blob/main/1.png)
+
 ## ⚙️ Tech Stack Used
 
 - React.js
@@ -32,7 +34,6 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
 - **Features**: Delves deeper into the iPhone's capabilities, presenting detailed information through interactive elements and clean, responsive layouts facilitated by Tailwind CSS.
 - **How it Works**: Guides users through the functionalities and features of the iPhone, making use of GSAP animations for an immersive experience.
 
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions for improvements or want to add new features, please follow these steps:
@@ -42,7 +43,6 @@ Contributions are welcome! If you have suggestions for improvements or want to a
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
-
 
 ## 📧 Contact
 
