@@ -46,6 +46,4 @@ Contributions are welcome! If you have suggestions for improvements or want to a
 
 ## 📧 Contact
 
-Syed Mustafa Hassan - [LinkedIn](https://www.linkedin.com/in/syed-mustafa-hassan/) - mustafahassan@example.com
-
-Project Link: [GitHub Repository](https://github.com/yourusername/iphone-15-website-clone)
+Syed Mustafa Hassan - [LinkedIn](https://www.linkedin.com/in/mustafahassan2001/) 
